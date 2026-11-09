@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="byUl2cqwxnEQ0753Aao-">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0i_1pwmRJFpx4XjQF59y-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="-186" y="-585" as="geometry" />
+        </mxCell>
+        <mxCell id="0i_1pwmRJFpx4XjQF59y-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="-209" y="-306" as="geometry" />
+        </mxCell>
+        <mxCell id="0i_1pwmRJFpx4XjQF59y-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="print&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(&quot;Dime el número de habitaciones&quot;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-222" y="-459" as="geometry" />
+        </mxCell>
+        <mxCell id="0i_1pwmRJFpx4XjQF59y-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="habit = Leer habit" vertex="1">
+          <mxGeometry height="60" width="120" x="-233" y="-382" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

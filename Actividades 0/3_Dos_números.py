@@ -1,0 +1,6 @@
+print("Dime un numero")
+a_numero = int(input())
+print("Dime otro numero")
+b_numero = int(input())
+print("su suma es")
+print(a_numero + b_numero)

@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="T4PbiHzJigGn_By2kAxe">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hn0ESrakR-80udThh-9N-1" edge="1" parent="1" source="hn0ESrakR-80udThh-9N-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hn0ESrakR-80udThh-9N-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hn0ESrakR-80udThh-9N-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="366" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hn0ESrakR-80udThh-9N-3" edge="1" parent="1" source="hn0ESrakR-80udThh-9N-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hn0ESrakR-80udThh-9N-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hn0ESrakR-80udThh-9N-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-decoration-line: inherit;&quot;&gt;premiun = input(&quot;¿Tiene un plan Premiun? (S/N): &quot;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="338.5" x="256.25" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hn0ESrakR-80udThh-9N-5" edge="1" parent="1" source="hn0ESrakR-80udThh-9N-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.471;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="hn0ESrakR-80udThh-9N-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="262" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hn0ESrakR-80udThh-9N-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="¿premiun == &quot;S&quot; and velocidad &amp;gt; 25?" vertex="1">
+          <mxGeometry height="130" width="130" x="360.5" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="hn0ESrakR-80udThh-9N-7" parent="1" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Si" vertex="1">
+          <mxGeometry height="30" width="80" x="492" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="hn0ESrakR-80udThh-9N-8" parent="1" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="No" vertex="1">
+          <mxGeometry height="30" width="80" x="282" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="hn0ESrakR-80udThh-9N-9" edge="1" parent="1" source="hn0ESrakR-80udThh-9N-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="426" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hn0ESrakR-80udThh-9N-10" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="ver4K = True" vertex="1">
+          <mxGeometry height="60" width="267" x="432" y="461" as="geometry" />
+        </mxCell>
+        <mxCell id="hn0ESrakR-80udThh-9N-11" edge="1" parent="1" source="hn0ESrakR-80udThh-9N-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hn0ESrakR-80udThh-9N-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="271" y="560" />
+              <mxPoint x="425.5" y="560" />
+            </Array>
+            <mxPoint x="426" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hn0ESrakR-80udThh-9N-12" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="ver4K = False" vertex="1">
+          <mxGeometry height="60" width="284" x="129" y="461" as="geometry" />
+        </mxCell>
+        <mxCell id="hn0ESrakR-80udThh-9N-13" edge="1" parent="1" source="hn0ESrakR-80udThh-9N-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="hn0ESrakR-80udThh-9N-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hn0ESrakR-80udThh-9N-17" edge="1" parent="1" source="hn0ESrakR-80udThh-9N-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hn0ESrakR-80udThh-9N-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="423" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hn0ESrakR-80udThh-9N-18" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="velocidad = int(input(&quot;¿Cuanta velocidad de conexión tiene?(Mbps): &quot;))" vertex="1">
+          <mxGeometry height="60" width="338.5" x="256.25" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="hn0ESrakR-80udThh-9N-19" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="99" width="99" x="376.5" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="hn0ESrakR-80udThh-9N-20" parent="hn0ESrakR-80udThh-9N-19" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="99" width="99" as="geometry" />
+        </mxCell>
+        <mxCell id="hn0ESrakR-80udThh-9N-21" parent="hn0ESrakR-80udThh-9N-19" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="Fin" vertex="1">
+          <mxGeometry height="80" width="80" x="9.5" y="9.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hn0ESrakR-80udThh-9N-24" edge="1" parent="1" source="hn0ESrakR-80udThh-9N-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hn0ESrakR-80udThh-9N-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hn0ESrakR-80udThh-9N-22" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="print(ver4K)" vertex="1">
+          <mxGeometry height="60" width="267" x="292.5" y="600" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

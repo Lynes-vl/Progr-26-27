@@ -1,0 +1,86 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="nijQzFL1PzHCUriIRvFV">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UpysV4rTE-pQ5F3JptHZ-1" edge="1" parent="1" source="UpysV4rTE-pQ5F3JptHZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="UpysV4rTE-pQ5F3JptHZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpysV4rTE-pQ5F3JptHZ-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="347" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UpysV4rTE-pQ5F3JptHZ-3" edge="1" parent="1" source="UpysV4rTE-pQ5F3JptHZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="UpysV4rTE-pQ5F3JptHZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpysV4rTE-pQ5F3JptHZ-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="edad = int(&quot;Edad del usuario: &quot;)" vertex="1">
+          <mxGeometry height="60" width="338.5" x="237.25" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UpysV4rTE-pQ5F3JptHZ-5" edge="1" parent="1" source="UpysV4rTE-pQ5F3JptHZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.471;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="UpysV4rTE-pQ5F3JptHZ-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="243" y="655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpysV4rTE-pQ5F3JptHZ-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="¿premiun == &quot;S&quot; and velocidad &amp;gt; 25?" vertex="1">
+          <mxGeometry height="130" width="130" x="341.5" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="UpysV4rTE-pQ5F3JptHZ-7" parent="1" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Si" vertex="1">
+          <mxGeometry height="30" width="80" x="473" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="UpysV4rTE-pQ5F3JptHZ-8" parent="1" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="No" vertex="1">
+          <mxGeometry height="30" width="80" x="263" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="UpysV4rTE-pQ5F3JptHZ-9" edge="1" parent="1" source="UpysV4rTE-pQ5F3JptHZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="407" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpysV4rTE-pQ5F3JptHZ-10" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="ver4K = True" vertex="1">
+          <mxGeometry height="60" width="267" x="413" y="591" as="geometry" />
+        </mxCell>
+        <mxCell id="UpysV4rTE-pQ5F3JptHZ-11" edge="1" parent="1" source="UpysV4rTE-pQ5F3JptHZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="UpysV4rTE-pQ5F3JptHZ-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252" y="690" />
+              <mxPoint x="406.5" y="690" />
+            </Array>
+            <mxPoint x="407" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpysV4rTE-pQ5F3JptHZ-12" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="ver4K = False" vertex="1">
+          <mxGeometry height="60" width="284" x="110" y="591" as="geometry" />
+        </mxCell>
+        <mxCell id="UpysV4rTE-pQ5F3JptHZ-13" edge="1" parent="1" source="UpysV4rTE-pQ5F3JptHZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="UpysV4rTE-pQ5F3JptHZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpysV4rTE-pQ5F3JptHZ-22" edge="1" parent="1" source="UpysV4rTE-pQ5F3JptHZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="UpysV4rTE-pQ5F3JptHZ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpysV4rTE-pQ5F3JptHZ-15" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="saldo = float((&quot;Saldo del usuario: &quot;))" vertex="1">
+          <mxGeometry height="60" width="338.5" x="237.25" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="UpysV4rTE-pQ5F3JptHZ-16" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="99" width="99" x="357.5" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="UpysV4rTE-pQ5F3JptHZ-17" parent="UpysV4rTE-pQ5F3JptHZ-16" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="99" width="99" as="geometry" />
+        </mxCell>
+        <mxCell id="UpysV4rTE-pQ5F3JptHZ-18" parent="UpysV4rTE-pQ5F3JptHZ-16" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="Fin" vertex="1">
+          <mxGeometry height="80" width="80" x="9.5" y="9.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UpysV4rTE-pQ5F3JptHZ-19" edge="1" parent="1" source="UpysV4rTE-pQ5F3JptHZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="UpysV4rTE-pQ5F3JptHZ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpysV4rTE-pQ5F3JptHZ-20" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="print(ver4K)" vertex="1">
+          <mxGeometry height="60" width="267" x="273.5" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="UpysV4rTE-pQ5F3JptHZ-23" edge="1" parent="1" source="UpysV4rTE-pQ5F3JptHZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="UpysV4rTE-pQ5F3JptHZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpysV4rTE-pQ5F3JptHZ-21" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="velocidad = int(input(&quot;¿Cuanta velocidad de conexión tiene?(Mbps): &quot;))" vertex="1">
+          <mxGeometry height="60" width="338.5" x="237.25" y="350" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
